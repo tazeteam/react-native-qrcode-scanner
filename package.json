@@ -28,7 +28,8 @@
   "dependencies": {
     "deprecated-react-native-prop-types": "^4.1.0",
     "prop-types": "^15.5.10",
-    "react-native-permissions": "^2.0.2"
+    "react-native-permissions": "^2.0.2",
+    "react-native-camera": "https://github.com/tazeteam/react-native-camera.git"
   },
   "devDependencies": {
     "@semantic-release/git": "^9.0.0",
@@ -38,9 +39,6 @@
     "husky": "^0.14.3",
     "lint-staged": "^7.1.0",
     "prettier": "^1.12.1"
-  },
-  "peerDependencies": {
-    "react-native-camera": "https://github.com/tazeteam/react-native-camera.git"
   },
   "homepage": "https://github.com/moaazsidat/react-native-qrcode-scanner#readme",
   "release": {
