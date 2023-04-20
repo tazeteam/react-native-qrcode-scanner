@@ -40,7 +40,7 @@
     "prettier": "^1.12.1"
   },
   "peerDependencies": {
-    "react-native-camera": ">=1.0.2"
+    "react-native-camera": "https://github.com/tazeteam/react-native-camera.git#master"
   },
   "homepage": "https://github.com/moaazsidat/react-native-qrcode-scanner#readme",
   "release": {
